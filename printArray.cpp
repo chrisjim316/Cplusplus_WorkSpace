@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+//random test num.
+const int SIZE = 60;
+
 class printArray {
 
   void print1DArray(const char arr[], int size){
